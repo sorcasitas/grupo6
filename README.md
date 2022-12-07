@@ -18,11 +18,11 @@ samples, guidance on mobile development, and a full API reference.
 
 Reto 4 Grupo 6
 
-Franky Calcetero Blanco
-Jose Ortiz Jaramillo
-Leyde Gualteros Montaño
-Smith Villafañe Arrieta
-Stephany Mendoza Orcasitas
+Franky Calcetero Blanco 
+Jose Ortiz Jaramillo 
+Leyde Gualteros Montaño 
+Smith Villafañe Arrieta 
+Stephany Mendoza Orcasitas 
 
 
 
